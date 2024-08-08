@@ -1,0 +1,48 @@
+1. Pandas
+   Purpose: A powerful data manipulation and analysis library.
+
+   Key Features:
+     - Provides data structures like DataFrames and Series for handling structured data.
+     - Supports data cleaning, merging, reshaping, and aggregation.
+     - Essential for data wrangling in data science and machine learning workflows.
+
+2. Numpy
+   Purpose: A fundamental package for numerical computing in Python.
+
+   Key Features:
+     - Provides support for large multi-dimensional arrays and matrices.
+     - Offers a variety of mathematical functions to operate on these arrays.
+     - Highly efficient due to its implementation in C, making it a cornerstone for scientific computing.
+
+3. TensorFlow
+   Purpose: An open-source library for machine learning and deep learning.
+
+   Key Features:
+     - Developed by Google Brain, it's widely used for building and training neural networks.
+     - Supports both high-level and low-level APIs for building models.
+     - Provides tools for deploying machine learning models on various platforms (mobile, web, etc.).
+
+4. Keras
+   Purpose: A high-level neural networks API.
+
+   Key Features:
+     - User-friendly and modular, designed for quick experimentation.
+     - Built on top of TensorFlow (and can also run on Theano, CNTK).
+     - Provides a simplified interface for building and training deep learning models.
+
+5. scikit-learn (sklearn)
+   Purpose: A robust library for machine learning in Python.
+
+   Key Features:
+     - Offers tools for data preprocessing, classification, regression, clustering, and dimensionality reduction.
+     - Integrates well with Pandas and Numpy, making it a go-to library for traditional machine learning tasks.
+     - Easy to use and widely adopted in the data science community.
+
+6. PyTorch
+   Purpose: An open-source machine learning library for deep learning.
+
+   Key Features:
+     - Developed by Facebook's AI Research lab.
+     - Known for its dynamic computational graph, which allows for flexibility in building neural networks.
+     - Used extensively in both research and production environments.
+     - Provides a rich ecosystem of tools and libraries for developing deep learning models.
